@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alpha Church</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Alpha Church</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/posts/mujtest/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mujtest/</guid>
+      <description> Nadpis treti urovne Vítejte na mé stránce. Chci se zde s vámi dělit o své vědomosti a zkušenosti v oblasti zdravého životního stylu a masáží.
+odrazky </description>
+    </item>
+    
+  </channel>
+</rss>

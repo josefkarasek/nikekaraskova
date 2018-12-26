@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studio on Alpha Church</title>
+    <link>http://example.org/tags/studio/</link>
+    <description>Recent content in Studio on Alpha Church</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moje studio</title>
+      <link>http://example.org/kids/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>http://example.org/kids/</guid>
+      <description>Tady hodíme nějaký text o pracovně (nebo o nějakém jiném článku?). Strucny popis staci. Tady hodíme nějaký text o pracovně (nebo o nějakém jiném článku?). Strucny popis staci. Tady hodíme nějaký text o pracovně (nebo o nějakém jiném článku?). Strucny popis staci. Tady hodíme nějaký text o pracovně (nebo o nějakém jiném článku?). Strucny popis staci. Tady hodíme nějaký text o pracovně (nebo o nějakém jiném článku?). Strucny popis staci. Tady hodíme nějaký text o pracovně (nebo o nějakém jiném článku?</description>
+    </item>
+    
+  </channel>
+</rss>
