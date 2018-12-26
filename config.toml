@@ -4,8 +4,6 @@ title = "Alpha Church"
 theme = ['alpha-church']
 themesDir = "themes"
 
-# cd hugo/vkaras/themes/alpha-church/exampleSite ; hugo server -D
-
 enableEmoji = true
 customCSS = ["", ""]
 
@@ -14,7 +12,6 @@ googleAnalytics = ""
 
 [taxonomies]
   tag = "tags"
-  preacher = "preachers"
   series = "series"
 
 #This theme can generate a multi-level theme.
@@ -30,34 +27,10 @@ googleAnalytics = ""
     url = "/about"
     weight = 2
 
-  # [[menu.main]]
-  #   name = "About Us"
-  #   parent = "About"
-  #   url = "/about"
-  #   weight = 1
-
-  # [[menu.main]]
-  #   name = "Leaders"
-  #   parent = "About"
-  #   url = "/leaders"
-  #   weight = 2
-
   [[menu.main]]
     name = "Blog"
     url = "/posts"
     weight = 3
-
-  # [[menu.main]]
-  #   name = "Sermons"
-  #   url = "/sermons"
-  #   parent = "Resources"
-  #   weight = 1
-
-  # [[menu.main]]
-  #   name = "Blog"
-  #   url = "/posts"
-  #   parent = "Resources"
-  #   weight = 2
 
   [[menu.main]]
     name = "Objednejte se"
@@ -70,36 +43,11 @@ googleAnalytics = ""
   subtitle = ""
   author = "Věra Karásková"
 
-  bible_popups = true
-
-  [params.podcast]
-    title = "Listen to Alpha Church"
-    subtitle = ""
-    summary = "Alpha-Church sermons, talks, messages—podcasted."
-    email = "test@example.com"
-    copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
-    image = "img/podcast-cover.jpg"
-    category = "Religion & Spirituality"
-    sub_category = "Christianity"
-    num_episodes = "10"
-
   [params.map]
     # For Open Street Map widgets
     latitude = "49.205868"
     longitude = "16.580870"
     zoom = "13"
-
-  [params.contact]
-    #Use this section to automate contact form.
-    #Set service to either "netlify" or "formspree"
-    #For formspree, please setup an account at https://formspree.io/
-    #For netlify, please read https://www.netlify.com/docs/form-handling/
-    #
-    #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
-    #If you use formspree, you'll need to set your formspree email address.
-    service = "netlify"
-    confirm_page = "/contact_thanks"
-    # formspree_email=""
 
   #Paramaters for the home/landing page
   [params.landing]
@@ -121,53 +69,6 @@ googleAnalytics = ""
       title = "Masáž je nejlepší investice do Vašeho zdraví"
       text = "Mé masážni studio najdete v blízkosti centra Brna na adrese Eleonory Voračické 5. Parkování je možné před vjezdem domu."
       map_location = "Brno žabovřesky"
-
-    [params.landing.feature_icons]
-      #These feature icons look best if there's an even number of them.
-      enable = false
-
-      #Accent is a colour defined in the CSS file. Choose between 1 and 5
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-bone"
-        icon_pack = "fas"
-        accent = "3"
-        title = "Léčebná masáž Tuina"
-        text = "Čínská léčebná masáž s využitím akupunkturních bodů harmonizuje tělo i ducha, podporuje správný tok životní energie a správnou funkci orgánů v lidském těle."
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-child"
-        icon_pack = "fas"
-        accent = "2"
-        title = "Sportovni a relaxacni masaz"
-        text = "Klasicka masaz na problemy se zády a krkem. Trvani masaze podle vasi potreby a výsledků léčení."
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-burn"
-        icon_pack = "fas"
-        accent = "5"
-        title = "Baňkování a moxovani"
-        text = "Tato masaz je tradicni a nemeli by ste se ji bat. Pouzivaji se sklenene banky, ktere se nahřejou a přiloží na tělo. Baňka tak podtlakem stimuluje podkoží a ulevuje od bolesti."
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-heartbeat"
-        icon_pack = "fas"
-        accent = "1"
-        title = "Dornova metoda PLUS"
-        text = ""
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-heartbeat"
-        icon_pack = "fas"
-        accent = "1"
-        title = "Nahrivani TDP lampou"
-        text = ""
-
-      [[params.landing.feature_icons.tile]]
-        icon = "fa-heartbeat"
-        icon_pack = "fas"
-        accent = "1"
-        title = "Dalsi druhy masazi"
-        text = "Reflexni, medova, cokoladova, anticelulitidni, masaz lavovymi kameny"
 
     [params.landing.feature_images]
       #These feature images look best if there's an even number of them.
@@ -221,7 +122,7 @@ googleAnalytics = ""
         text = "Anticelulitidní, medová, čokoládová a masáž lávovými kameny nabízím na přání pro lepší detoxikaci a regeneraci organismu. Obvyklá doba trvání masáže 1 až 1,5 hodiny."
         url = "/medmas"
         button_text="Více"
-      
+
       [[params.landing.feature_images.tile]]
         image = ""
         title = "Čokoládová masáž"
@@ -253,12 +154,8 @@ googleAnalytics = ""
                    "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
                   ]
 
-    
-
     [[params.links]]
       service = "Facebook"
       icon = "fa-facebook"
       icon_pack = "fab"
       link = "//facebook.com/"
-
-    
