@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vytejte on Alpha Church</title>
-    <link>http://example.org/tags/vytejte/</link>
+    <link>https://josefkarasek.github.io/nikekaraskova/tags/vytejte/</link>
     <description>Recent content in Vytejte on Alpha Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/vytejte/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://josefkarasek.github.io/nikekaraskova/tags/vytejte/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/posts/mujtest/</link>
+      <link>https://josefkarasek.github.io/nikekaraskova/posts/mujtest/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/mujtest/</guid>
+      <guid>https://josefkarasek.github.io/nikekaraskova/posts/mujtest/</guid>
       <description> Nadpis treti urovne Vítejte na mé stránce. Chci se zde s vámi dělit o své vědomosti a zkušenosti v oblasti zdravého životního stylu a masáží.
 odrazky </description>
     </item>

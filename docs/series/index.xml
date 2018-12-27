@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Alpha Church</title>
-    <link>http://example.org/series/</link>
+    <link>https://josefkarasek.github.io/nikekaraskova/series/</link>
     <description>Recent content in Series on Alpha Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://josefkarasek.github.io/nikekaraskova/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/series/test/</link>
+      <link>https://josefkarasek.github.io/nikekaraskova/series/test/</link>
       <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
       
-      <guid>http://example.org/series/test/</guid>
+      <guid>https://josefkarasek.github.io/nikekaraskova/series/test/</guid>
       <description></description>
     </item>
     
