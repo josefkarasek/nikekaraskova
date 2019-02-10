@@ -1,6 +1,6 @@
-baseURL = "https://josefkarasek.github.io/nikekaraskova/"
+baseURL = "https://masaze-karaskova.cz/"
 languageCode = "en-us"
-title = "Alpha Church"
+title = "Masáže Brno"
 theme = ['alpha-church']
 themesDir = "themes"
 
@@ -91,7 +91,7 @@ googleAnalytics = ""
       [[params.landing.feature_images.tile]]
         image = ""
         title = "Sportovní masáž"
-        text = "Důmyslné sestavená masáž pro uvolnění těla před nebo po sportovním výkonu. Působí na fyzické tělo i psychiku a podporuje regeneraci. Obvyklá doba trvání masáže 1 hodina."
+        text = "Důmyslně sestavená masáž pro uvolnění těla před nebo po sportovním výkonu. Působí na fyzické tělo i psychiku a podporuje regeneraci. Obvyklá doba trvání masáže 1 hodina."
         url = "/sportovnimasaz"
         button_text="Více"
 
@@ -158,4 +158,5 @@ googleAnalytics = ""
       service = "Facebook"
       icon = "fa-facebook"
       icon_pack = "fab"
-      link = "//facebook.com/"
+      link = "//facebook.com/V%C4%9Bra-Kar%C3%A1skov%C3%A1-mas%C3%A1%C5%BEe-2042014092793191/"
+
