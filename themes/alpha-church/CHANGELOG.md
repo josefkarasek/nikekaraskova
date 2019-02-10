@@ -1,3 +1,37 @@
+# Tuesday, 29 January 2019
+* [FontAwesome 5.7.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.7.0)
+
+# Monday, 14 January 2019
+* Added a small space between icon and word in download button for sermon recordings.
+
+# Monday, 5 November 2018
+* FontAwesome 5.5
+* Fixed pluralised titles for sermon series.
+
+# Saturday, 13 October 2018
+* FontAwesome 5.4.1
+* [Leaflet JS 1.3.4](https://leafletjs.com/2018/08/21/leaflet-1.3.4.html)
+
+# Wednesday, 3 October 2018
+* A small change to the single sermon partial to make code more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
+* Discovered the [`rssLimit` configuration setting](https://gohugo.io/getting-started/configuration/#all-configuration-settings) so removed `.Params.Podcast.num_episodes` setting and code which used it. So now, to set how many episodes use the built in setting. (This does mean all feeds, e.g. blog and podcast, will have the same number of entries.)
+
+# Wednesday, 26 September 2018
+* Bugfix: Custom CSS variable was incorrect. To enable custom CSS, see the updated config.toml in the exampleSite. Place you custom CSS file in `/static`.
+* Updated to [plyr 3.4.4](https://github.com/sampotts/plyr/releases/tag/v3.4.4)
+
+# Monday, 17 September 2018
+Big changes for podcast discovery.
+* Added 'Subscribe on Android' and 'Subscribe in iTunes' link to list of sermons.
+To make this work, there's been a few variables changed in `config.toml` - see the exampleSite config for details.
+
+# Monday, 10 September 2018
+* Added meta tag for linking to Apple Podcasts on iOS ([see this page for more information](https://blog.pacific-content.com/optimize-your-podcast-website-for-ios-with-a-single-line-of-code-cf56a7a3f486))
+** `.Site.Params.Podcast.iTunesID` in config.toml required for this feature. **NB changes on 17/9/18**
+
+# Sunday, 9 September 2018
+* Changed to Relative Permalinks for assets to ensure the exampleSite builds on //themes.gohugo.io.
+
 # Thursday, 30 August 2018
 * FontAwesome 5.3.1 now has some ['religious' icons](https://fontawesome.com/icons?d=gallery&c=religion)
 

@@ -3,7 +3,7 @@ title: "Baňkování a moxování"
 subtitle: ""
 date: 2018-05-01T07:39:12+10:00
 images: []
-tags: ["moxování", "baňkování"]
+tags: ["masaz", "moxování", "baňkování"]
 draft: false
 ---
 Léčebná a masážní metoda při níž se za pomocí skleněných, plastových nebo silikonových baněk vytváří podtlak, který příznivě působí na ošetřovanou část těla. Nahřátím dochází k rozhýbání životní energie, k uvolnění bolestivých míst. K regulaci nervového a lymfatického systému.

@@ -5,7 +5,7 @@ theme = ['alpha-church']
 themesDir = "themes"
 
 enableEmoji = true
-customCSS = ["", ""]
+# customCSS = ["", ""]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -75,70 +75,71 @@ googleAnalytics = ""
       enable = true
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/woman.jpg"
         title = "Čínská léčebná masáž TUINA"
         text = "Čínská léčebná masáž s využitím akupunkturních bodů harmonizuje tělo i ducha, podporuje správný tok životní energie a správnou funkci orgánů v lidském těle. Obvyklá doba trvání masáže 1 hodina."
         url = "/tuina"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/spine.jpg"
         title = "Dornova metoda PLUS"
         text = "Srovnává páteř a klouby a ulevuje jim od bolestí. Řeší např. rozdílnou délku nohou, skoliózu, bolesti kolen, ramen, tenisový loket apod. Obvyklá doba trvání masáže 1,5 až 2 hodiny."
         url = "/dornovametoda"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/sport.jpg"
         title = "Sportovní masáž"
         text = "Důmyslně sestavená masáž pro uvolnění těla před nebo po sportovním výkonu. Působí na fyzické tělo i psychiku a podporuje regeneraci. Obvyklá doba trvání masáže 1 hodina."
         url = "/sportovnimasaz"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/cupping.jpg"
         title = "Baňkování a moxování"
         text = "Skleněnými nebo plastovými baňkami je vytvářen podtlak, který uvolňuje a prokrvuje tkáně. Moxování - nahříváním akupunkturních bodů pomocí speciálních doutníků, naplněných pelyňkem, uvolňuje ošetřovaný meridián."
         url = "/bankovani"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/lamp.jpg"
         title = "Nahřívání TDP lampou"
-        text = "Lampu, která vyzařuje 33 minerálů, používám během masáže pro postupné prohřívání páteře, kloubů a dalších bolestivých míst. Teplo krásně uvolní zatuhlá místa a pomáhá od bolesti. Tato lampa se bežně používá v čínských nemocnicích."
+        text = ""
+        # text = "Lampu, která vyzařuje 33 minerálů, používám během masáže pro postupné prohřívání páteře, kloubů a dalších bolestivých míst. Teplo krásně uvolní zatuhlá místa a pomáhá od bolesti. Tato lampa se bežně používá v čínských nemocnicích."
         url = "/tdp"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/feet.jpg"
         title = "Reflexní terapie"
-        text = "Anticelulitidní, medová, čokoládová a masáž lávovými kameny nabízím na přání pro lepší detoxikaci a regeneraci organismu. Obvyklá doba trvání masáže 1 až 1,5 hodiny."
-        url = "/tdp"
+        text = ""
+        url = "/reflex"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/honey.jpg"
         title = "Medová masáž"
-        text = "Anticelulitidní, medová, čokoládová a masáž lávovými kameny nabízím na přání pro lepší detoxikaci a regeneraci organismu. Obvyklá doba trvání masáže 1 až 1,5 hodiny."
+        text = ""
         url = "/medmas"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/choco.jpg"
         title = "Čokoládová masáž"
-        text = "Anticelulitidní, medová, čokoládová a masáž lávovými kameny nabízím na přání pro lepší detoxikaci a regeneraci organismu. Obvyklá doba trvání masáže 1 až 1,5 hodiny."
+        text = ""
         url = "/cokomas"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-        image = ""
+        image = "img/lotus.jpg"
         title = "Anticelulitidní masáž se zábalem "
-        text = "Anticelulitidní, medová, čokoládová a masáž lávovými kameny nabízím na přání pro lepší detoxikaci a regeneraci organismu. Obvyklá doba trvání masáže 1 až 1,5 hodiny."
+        text = ""
         url = "/anticel"
         button_text="Více"
 
       [[params.landing.feature_images.tile]]
-         image = ""
+         image = "img/lava.jpg"
          title = "Masáž lávovými kameny "
          text = ""
          url = "/lavovekameny"

@@ -10,14 +10,14 @@ $ cd themes
 $ git submodule add https://github.com/funkydan2/alpha-church.git
 ```
 
-You should see a folder called `alpha-church` inside the `themes` directory that we created a few moments ago. For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
+You should see a folder called `alpha-church` inside the `themes` directory that we created a few moments ago. For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
 ## Update the theme
 If the theme has been updated, you can use `git` to merge latest commits to the submodule by running `git submodule update --rebase --remote` in root directory of your project.
 
 ## Configuration
 
-In the next step navigate to the `exampleSite` folder at `themes/hugo-travelify-theme/exampleSite/` and copy `config.toml` from the exampleSite folder into the root folder of your Hugo site. (Please refer to http://gohugo.io/overview/quickstart/ for installing a Hugo theme.)
+In the next step navigate to the `exampleSite` folder at `themes/hugo-travelify-theme/exampleSite/` and copy `config.toml` from the exampleSite folder into the root folder of your Hugo site. (Please refer to https://gohugo.io/overview/quickstart/ for installing a Hugo theme.)
 
 ## The `config` file
 
@@ -74,10 +74,14 @@ In `config.toml` there are settings which are used to generate the podcast RSS f
   image = "Link to 1400*1400 (or larger) file"
   category = "Religion & Spirituality"
   sub_category = "Christianity"
+  #num_episodes = 50
+  #iTunesID = 12345677
 ```
-All of these need to be set (except subtitle) or else the feed will not be valid.
+Almost all of these need to be set or else the feed will not be valid. You can leave the `subtitle` entry blank. You don't need to set `num_episodes` unless you want your feed to include a number other than the default (50).
 
 Some of these entries look like site-wide settings (e.g. `title`). They need to be set here as you may which to use a title for your site which is different from your podcast.
+
+The `iTunedID` setting is used to create a subscribe banner for users of the Safari web browser on iOS. Only set this variable if your sermon podcast feed has been submitted to iTunes. [Click here to read instructions on how to find the ID number](https://www.podigee.com/en/help/how-to-find-your-podcasts-itunes-id/).
 
 As you're developing your site, you'll need to check the podcast feed is valid by entering the feed's URL into [a podcast feed validator](https://castfeedvalidator.com).
 

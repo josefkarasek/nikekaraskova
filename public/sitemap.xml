@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://masaze-karaskova.cz/posts/mujtest/</loc>
-    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+    <loc>https://masaze-karaskova.cz/reflex/</loc>
+    <lastmod>2019-02-10T12:46:33+01:00</lastmod>
   </url>
   
   <url>
@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>https://masaze-karaskova.cz/moxovani/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://masaze-karaskova.cz/sportovnimasaz/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -63,25 +58,7 @@
   </url>
   
   <url>
-    <loc>https://masaze-karaskova.cz/tags/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://masaze-karaskova.cz/tags/ba%C5%88kov%C3%A1n%C3%AD/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masaze-karaskova.cz/tags/celulitida/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masaze-karaskova.cz/tags/cokoladova-masaz/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
@@ -94,25 +71,13 @@
   
   <url>
     <loc>https://masaze-karaskova.cz/tags/masaz/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <lastmod>2019-02-10T12:46:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://masaze-karaskova.cz/</loc>
-    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masaze-karaskova.cz/tags/medova-masaz/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masaze-karaskova.cz/tags/moxovani/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <lastmod>2019-02-10T12:46:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,19 +88,7 @@
   </url>
   
   <url>
-    <loc>https://masaze-karaskova.cz/posts/</loc>
-    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://masaze-karaskova.cz/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masaze-karaskova.cz/tags/start/</loc>
-    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,12 +107,6 @@
   <url>
     <loc>https://masaze-karaskova.cz/tags/tuina/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://masaze-karaskova.cz/tags/vytejte/</loc>
-    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
