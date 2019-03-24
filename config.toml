@@ -8,7 +8,7 @@ enableEmoji = true
 # customCSS = ["", ""]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-136813772-1"
 
 [taxonomies]
   tag = "tags"
@@ -67,7 +67,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Masáž je nejlepší investice do Vašeho zdraví"
-      text = "Mé masážni studio najdete v blízkosti centra Brna na adrese Eleonory Voračické 5. Parkování je možné před vjezdem domu."
+      text = "Mé masážní studio najdete v blízkosti centra Brna na adrese Eleonory Voračické 5. Parkování je možné před vjezdem domu."
       map_location = "Brno žabovřesky"
 
     [params.landing.feature_images]
@@ -147,12 +147,14 @@ googleAnalytics = ""
 
     [params.landing.CTA]
       heading = "Objednejte se"
-      message = "Objednejte se prosím na tomto telefonním čísle 731 683 502. IČO 06824269"
+      message = "Objednejte se prosím na tomto telefonním čísle 605 411 116"
 
     [params.footer]
       copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
                    "Design: [HTML5 UP](//html5up.net/alpha)",
-                   "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
+                   "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)",
+                   "IČO 06824269",
+                   "ZU/MMB/0045328/2018"
                   ]
 
     [[params.links]]
