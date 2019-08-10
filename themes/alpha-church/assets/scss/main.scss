@@ -63,10 +63,8 @@ body,
 input,
 select,
 textarea {
-  color: _palette(fg);
   font-family: _font(family);
   font-size: 16pt;
-  font-weight: _font(weight);
   line-height: 1.65em;
   letter-spacing: -0.015em;
 }
@@ -467,6 +465,8 @@ $box-padding: 3em;
   box-shadow: 0 2px 0 0 _palette(border);
   margin: 0 0 _size(element-margin) 0;
   padding: $box-padding;
+  color: _palette(fg-bold);
+  font-weight: _font(weight-bold);
 
   img {
     max-width: 100%;
@@ -2048,5 +2048,7 @@ body.landing {
 
   #cta {
     padding: 2.5em 1em 3em 1em;
+    color: _palette(fg-bold);
+    font-weight: _font(weight-bold);
   }
 }

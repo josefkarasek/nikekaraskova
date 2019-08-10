@@ -1,7 +1,7 @@
 baseURL = "https://masaze-karaskova.cz/"
 languageCode = "en-us"
 title = "Masáže Brno"
-theme = ['alpha-church']
+theme = "alpha-church"
 themesDir = "themes"
 
 enableEmoji = true
@@ -26,11 +26,6 @@ googleAnalytics = "UA-136813772-1"
     name = "O mně"
     url = "/about"
     weight = 2
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
-    weight = 3
 
   [[menu.main]]
     name = "Objednejte se"

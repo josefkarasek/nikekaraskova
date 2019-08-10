@@ -76,8 +76,39 @@
 				<section id="cta"><a name="call-to-action"></a>
 
 					<h2>{{ .Site.Params.Landing.CTA.heading}}</h2>
-					<p>{{ .Site.Params.Landing.CTA.message}}</p>
+					<h4>{{ .Site.Params.Landing.CTA.message}}</h4>
 					{{ partial "contact" .}}
 
+				</section>
+				<section class="box">
+					<h3>Ceník</h3>
+					<div class="table-wrapper">
+						<table class="alt">
+							<thead>
+								<tr>
+									<th>Služba</th>
+									<th>Cena</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Masáž</td>
+									<td>600,-/60 minut</td>
+								  </tr>
+								  <tr>
+									<td>Reflexní masáž nohy</td>
+									<td>350,-</td>
+								  </tr>
+								  <tr>
+									<td>Autotrakční lehátko, masáž s vyhříváním</td>
+									<td>60,-/10 minut</td>
+								  </tr>
+								  <tr>
+									<td>Prohřívání TDP lampou</td>
+									<td>50,-/10 minut</td>
+								  </tr>
+							</tbody>
+						</table>
+					</div>
 				</section>
 {{ partial "footer" . }}
